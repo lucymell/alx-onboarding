@@ -1,0 +1,12 @@
+This program calculates the sum of squares of given input of numbers.
+
+//Receive any two number as input from user num1 and num2
+//Calculate the square of both sqr1 and sqr2
+//num1*num1 == sqr1 and num2*num2 == sqr2
+//calculate sqr1 + sqr2 
+   //PRINT sum
+ 
+[end of Sum Of Square procedure]
+
+
+
